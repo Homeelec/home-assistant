@@ -1100,6 +1100,9 @@ pyialarm==0.3
 # homeassistant.components.icloud.device_tracker
 pyicloud==0.9.1
 
+# homeassistant.components.intesishome.climate
+pyintesishome==0.8
+
 # homeassistant.components.ipma.weather
 pyipma==1.2.1
 

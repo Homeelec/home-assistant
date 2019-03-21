@@ -274,6 +274,7 @@ omit =
     homeassistant/components/insteon/*
     homeassistant/components/insteon_local/*
     homeassistant/components/insteon_plm/*
+    hoemassistant/components/intesishome/climate.py
     homeassistant/components/ios/*
     homeassistant/components/iota/*
     homeassistant/components/iperf3/*
